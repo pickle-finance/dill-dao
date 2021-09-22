@@ -11,3 +11,7 @@
 ## Section 4 - Calls to Vote
 - A given resolution may proceed to a vote if a motion to end debate (as defined in section 3) is made and passed.
 - A given resolution may proceed to a vote if the Chair orders debate closed and a vote scheduled.
+## Section 5: Officers
+- The Chairperson of the Committee shall be, by virtue of their office, the Chief Executive Officer of the Protocol.
+- The Committee shall select, from among its elected members, a Secretary. 
+- The Committee may elect, from among its selected members, up to two Vice-Secretaries. Each Vice-Secretary will assist the Secretary in discharging their duties. 
