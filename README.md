@@ -1,6 +1,6 @@
 ## SCCOC
 
-Secretary of the Standing Committee for Continuing Operations and Compensation (SCCOC).
+Standing Committee for Continuing Operations and Compensation (SCCOC).
 
 ## Secretary
 - Cipio
