@@ -2,6 +2,9 @@
 
 Standing Committee for Continuing Operations and Compensation (SCCOC).
 
+## Chair
+- Larry the Cucumber
+
 ## Secretary
 - Cipio
 
