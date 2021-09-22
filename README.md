@@ -2,6 +2,13 @@
 
 Secretary of the Standing Committee for Continuing Operations and Compensation (SCCOC).
 
+## Secretary
+- Cipio
+
+## Vice Secretaries
+- Cerunos
+- Clintos
+
 ## Members
 - Bwar
 - Cerunos
