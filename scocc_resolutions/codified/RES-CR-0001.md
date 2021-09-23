@@ -10,6 +10,7 @@ For:
 -  Clintos
 -  Leekuanjew
 -  Merpendous
+-  Scotty
 -  Tokani
 ## Appendix
 ```
