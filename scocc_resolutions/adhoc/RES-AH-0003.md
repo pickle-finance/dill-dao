@@ -6,6 +6,7 @@
 For:
 - Cerunos
 - Cipio
+- Clintos
 - Larry the Cucumber
 - Leekuanjew
 - Merpendous
