@@ -7,8 +7,8 @@
 ### 2. Pay Grades
 - Interns
   - Little to no industry experience. Completes assigned tasks with help and direction from team members.
--  Standard
-  - Work Independently on assigned tasks
+- Standard
+  - Work Independently on assigned tasks.
 - Senior
   - Self-Directed, completes assigned tasks as well as actively seeks out ways to improve the protocol without any direction.
 - Fellow
