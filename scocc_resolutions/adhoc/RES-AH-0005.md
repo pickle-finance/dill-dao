@@ -8,6 +8,7 @@
 ## Votes
 For:
 - Bwar
+- Cerunos
 - Cipio
 - Clintos
 - Leekuanjew
