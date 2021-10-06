@@ -1,4 +1,4 @@
-# RES-CR-0003 - Pickle Code Title 200 - Compensation
+# RES-CR-0004 - Pickle Code Title 200 - Pay Grades
 ## Description
 - Append Pay Grades to Pickle Code Title 200 Section 1.
 - See Apendix for Pay Grades.
