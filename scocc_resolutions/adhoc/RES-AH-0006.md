@@ -5,9 +5,11 @@
 ## Votes
 For:
 - Bwar
+- Cerunos
 - Cipio
 - Clintos
 - Larry the Cucumber
 - Leekuanjew
+- Merpendous
 - Scotty
 - Tokani
