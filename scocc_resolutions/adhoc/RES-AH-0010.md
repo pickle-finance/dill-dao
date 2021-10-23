@@ -6,7 +6,7 @@ For:
 - Bwar
 - Cipio
 - Clintos
-- Leekuanjew
 - Larry the Cucumber
+- Leekuanjew
 - Scotty
 - Tokani
