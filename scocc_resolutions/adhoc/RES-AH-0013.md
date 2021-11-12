@@ -6,6 +6,7 @@ Approve a Site analytics bounty of $12,000.
 For:
 - Bwar
 - Cipio
+- Clintos
 - Leekuanjew
 - Larry the Cucumber
 - Merpendous
